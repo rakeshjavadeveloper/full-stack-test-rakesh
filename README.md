@@ -48,4 +48,4 @@ a)
 }
 
 
->>>>also you can improt the database to verify
+>>>>also you can import the database to verify
